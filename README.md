@@ -1,8 +1,8 @@
-﻿# Olá! Eu sou Luis Felipe 👋
+# Olá! Eu sou Luis Felipe 👋
 
-🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvedor em formação  
-🚀 Python • HTML • CSS • JavaScript • Banco de Dados • IA
+🎓 Estudante de Sistemas de Informação
+💻 Desenvolvedor em formação
+🚀 Python • C++ • HTML • CSS • JavaScript • Banco de Dados • IA • Automação
 
 ---
 
@@ -10,7 +10,11 @@
 
 🎓 Estudante de Sistemas de Informação no CESMAC.
 
-💻 Interessado em desenvolvimento de software e hardware de automação.
+💻 Interessado em desenvolvimento de software, hardware e automação.
+
+🤖 Experiência com Arduino e ESP32, desenvolvendo projetos de automação e sistemas embarcados.
+
+⚙️ Interesse em integração entre software e hardware, utilizando sensores, motores, microcontroladores e sistemas de controle.
 
 🗄️ Experiência acadêmica e prática com bancos de dados e desenvolvimento de sistemas.
 
@@ -22,19 +26,29 @@
 
 ### Linguagens
 
-🐍 Python  
-🟨 JavaScript  
-🌐 HTML  
-🎨 CSS  
+🐍 Python
+⚙️ C++
+🟨 JavaScript
+🌐 HTML
+🎨 CSS
 🗄️ SQL
+
+### Automação e Sistemas Embarcados
+
+🔌 Arduino
+📡 ESP32
+⚙️ Automação
+🔧 Sistemas embarcados
+📟 Sensores e atuadores
+🔄 Controle de motores
 
 ### Frameworks e Bibliotecas
 
-⚡ FastAPI  
-🔗 SQLAlchemy  
-🎮 Pygame  
-🕷️ BeautifulSoup  
-📊 OpenPyXL  
+⚡ FastAPI
+🔗 SQLAlchemy
+🎮 Pygame
+🕷️ BeautifulSoup
+📊 OpenPyXL
 🖥️ CustomTkinter
 
 ### Banco de Dados
@@ -43,11 +57,12 @@
 
 ### Ferramentas
 
-🐙 Git  
-📦 GitHub  
-💻 VS Code  
-🗃️ DBeaver  
+🐙 Git
+📦 GitHub
+💻 VS Code
+🗃️ DBeaver
 📦 PyInstaller
+🔧 Arduino IDE
 
 ---
 
@@ -65,25 +80,36 @@ Projeto de jogo desenvolvido em Python/Pygame, com física, movimentação de pe
 
 **Tecnologias:** Python • Pygame
 
+### ⚙️ Projetos de Automação
+
+Desenvolvimento de projetos utilizando Arduino e ESP32 para controle e automação, trabalhando com sensores, motores, atuadores e comunicação entre componentes.
+
+**Tecnologias:** C++ • Arduino • ESP32 • Eletrônica • Sistemas Embarcados
+
 ---
 
 ## 📚 Atualmente estudando
 
-🐍 Python  
-🗄️ PostgreSQL  
-🌐 Desenvolvimento Web  
-🤖 Inteligência Artificial  
-🏗️ Arquitetura de Software  
+🐍 Python
+⚙️ C++
+🔌 Arduino e ESP32
+🤖 Automação e Sistemas Embarcados
+🗄️ PostgreSQL
+🌐 Desenvolvimento Web
+🤖 Inteligência Artificial
+🏗️ Arquitetura de Software
 🎮 Desenvolvimento de Jogos
 
 ---
 
 ## 🎯 Objetivos
 
-🚀 Evoluir como desenvolvedor  
-💻 Criar projetos cada vez mais completos  
-🤖 Explorar IA e automação  
-🗄️ Aprofundar conhecimentos em bancos de dados  
+🚀 Evoluir como desenvolvedor
+💻 Criar projetos cada vez mais completos
+🤖 Explorar IA e automação
+🔌 Desenvolver soluções envolvendo software e hardware
+⚙️ Aprofundar conhecimentos em C++, Arduino e ESP32
+🗄️ Aprofundar conhecimentos em bancos de dados
 🎮 Continuar desenvolvendo projetos próprios
 
 ---
