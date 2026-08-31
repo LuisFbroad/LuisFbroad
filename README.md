@@ -1,9 +1,5 @@
 # Olá! Eu sou Luis Felipe 👋
 
-🎓 Estudante de Sistemas de Informação
-💻 Desenvolvedor em formação
-🚀 Python • C++ • HTML • CSS • JavaScript • Banco de Dados • IA • Automação
-
 ---
 
 ## 👨‍💻 Sobre mim
