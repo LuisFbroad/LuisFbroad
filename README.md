@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Sistemas de Informação no CESMAC.
+🎓 Estudante de Sistemas de Informação no CESMAC (5/8).
 
 💻 Interessado em desenvolvimento de software, hardware e automação.
 
